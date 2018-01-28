@@ -19,7 +19,7 @@ export default ({ time, comment }) => {
                     textAlign: 'left',
                     textAlignVertical: 'center',
                     transform: [{
-                        translate: [0, 0, -9]
+                        translate: [1, 1, -15]
                     }],
                     width : 15
                 }}
